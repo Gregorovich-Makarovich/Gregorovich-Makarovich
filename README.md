@@ -5,7 +5,7 @@ Mi nombre es Gregorovich
 - 👀  Me interesa la programación y todas sus ramas
 - 🌱 Actualmente estoy aprendiendo Java, Python, y JavaScript
 - :octocat: Busco colaborar en cualquier proyecto que sea posible
-- 📫 Pueden contactarme por [E-mail](gregorovich.makarovich@gmail.com)
+- 📫 Pueden contactarme por [e-mail](gregorovich.makarovich@gmail.com)
 
 ### Skills
 
